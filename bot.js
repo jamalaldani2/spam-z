@@ -14,3 +14,4 @@ var channel = "515206756201136130";//ايدي الروم
     client.guilds.get(server).channels.get(channel).send('Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , Forest Spam , ')
     },305);
 })
+client.login(process.env.BOT_TOKEN);// لا تغير فيها شيء
